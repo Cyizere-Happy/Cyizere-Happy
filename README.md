@@ -34,7 +34,7 @@ I'm a passionate developer who loves going deep — whether it's **writing firmw
 ## 🔗 My Portfolio
 
 🎨 **Check out my projects & visuals here**:  
-[📁 CN ePortfolio]([https://www.canva.com/your-link](https://www.thecn.com/CH2218))
+[📁 CN ePortfolio] ([https://www.thecn.com/CH2218])
 
 ---
 
