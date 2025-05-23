@@ -49,7 +49,7 @@ I'm a passionate developer who loves going deep — whether it's **writing firmw
 
 ## 💬 Let's Connect
 
-📫 cyizere.happy@example.com (email optional)
+📫 happycyizere69@gmail.com
 
 ---
 
