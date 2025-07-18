@@ -1,8 +1,8 @@
 <!-- README.md for Cyizere Happy -->
 
-<table>
+<table style="border-collapse: collapse; border: none;">
   <tr>
-    <td width="60%">
+    <td width="60%" style="border: none; vertical-align: top; padding-right: 20px;">
 
 <h1>Hi there 👋, I'm Cyizere Happy</h1>
 
@@ -21,9 +21,9 @@ I'm a curious mind who explores from bare metal to browser. Whether it's **flash
 📫 Reach me at: **happycyizere69@gmail.com**
 
   </td>
-  <td width="40%" align="center">
-    <img src="https://img.freepik.com/premium-psd/3d-illustration-computer-device-icon_570429-168.jpg?w=740" alt="3D Computer" width="80%" style="border-radius: 12px;" />
-  </td>
+    <td width="40%" align="center" style="border: none; vertical-align: middle;">
+      <img src="https://raw.githubusercontent.com/Cyizere-Happy/Cyizere-Happy/main/Assets/Image2.png" alt="3D Computer" width="80%" style="border-radius: 12px;" />
+    </td>
   </tr>
 </table>
 
@@ -68,5 +68,3 @@ I'm a curious mind who explores from bare metal to browser. Whether it's **flash
 
 📫 Email: happycyizere69@gmail.com  
 🌍 Portfolio: [https://www.thecn.com/CH2218](https://www.thecn.com/CH2218)
-
----
