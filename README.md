@@ -1,17 +1,12 @@
-<!-- Banner or Header Image -->
-<p align="center">
-  <img src="https://github.com/Cyizere-Happy/Cyizere-Happy/assets/your-banner-image.png" alt="Banner" width="100%" />
-</p>
+<!-- README.md for Cyizere Happy -->
 
-<h1 align="center">Hi there 👋, I'm Cyizere Happy</h1>
+<table>
+  <tr>
+    <td width="60%">
 
-<p align="center">
-  🚀 Embedded Systems | 🔐 Cybersecurity Enthusiast | 💻 Full-Stack Developer  
-</p>
+<h1>Hi there 👋, I'm Cyizere Happy</h1>
 
----
-
-## 👩‍💻 About Me
+🚀 Embedded Systems | 🔐 Cybersecurity Enthusiast | 💻 Full-Stack Developer
 
 I'm a curious mind who explores from bare metal to browser. Whether it's **flashing microcontrollers**, **securing backends**, or crafting **powerful web apps**, I thrive in the deep end of development.
 
@@ -20,6 +15,17 @@ I'm a curious mind who explores from bare metal to browser. Whether it's **flash
 - ⚙️ Skilled in **C**, **C++**, **Python**, **PHP (Laravel)**, **MySQL**, **JavaScript**, **TypeScript**
 - 🎯 Passionate about **hardware logic**, **clean code**, and **security by design**
 - 🛠️ Always building. Always learning.
+
+> _"If it can be coded, I’ll build it. If it can be hacked, I’ll secure it. If it doesn’t exist yet, I’ll invent it."_
+
+📫 Reach me at: **happycyizere69@gmail.com**
+
+  </td>
+  <td width="40%" align="center">
+    <img src="https://img.freepik.com/premium-psd/3d-illustration-computer-device-icon_570429-168.jpg?w=740" alt="3D Computer" width="80%" style="border-radius: 12px;" />
+  </td>
+  </tr>
+</table>
 
 ---
 
@@ -42,9 +48,9 @@ I'm a curious mind who explores from bare metal to browser. Whether it's **flash
 
 ---
 
-## 🧠 Projects & Portfolio
+## 🌐 Projects & Portfolio
 
-🎨 Check out some of my works & live builds:  
+🎨 Check out my works:  
 [🔗 CN ePortfolio](https://www.thecn.com/CH2218)
 
 ---
@@ -58,13 +64,9 @@ I'm a curious mind who explores from bare metal to browser. Whether it's **flash
 
 ---
 
-## 📬 Let's Connect
+## 💬 Let's Connect
 
-📧 happycyizere69@gmail.com  
-🌐 [LinkedIn coming soon]  
+📫 Email: happycyizere69@gmail.com  
+🌍 Portfolio: [https://www.thecn.com/CH2218](https://www.thecn.com/CH2218)
 
 ---
-
-> _"If it can be coded, I’ll build it. If it can be hacked, I’ll secure it. If it doesn’t exist yet, I’ll invent it."_  
-— 💻🛡️ Happy, the Full-stack Tinkerer
-
