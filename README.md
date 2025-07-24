@@ -8,7 +8,7 @@
 
 🚀 Embedded Systems | 🔐 Cybersecurity Enthusiast | 💻 Full-Stack Developer
 
-I'm a curious mind who explores from bare metal to browser. Whether it's **flashing microcontrollers**, **securing backends**, or crafting **powerful web apps**, I thrive in the deep end of development.
+I'm a curious mind who explores from bare metal to browser. Whether it's **flashing microcontrollers**, **securing backends**, or crafting **powerful web apps**, I thrive in the deep end of development🧠.
 
 - 🔭 Currently diving into **Embedded Systems**, **Cybersecurity**, and **AI tools**
 - 🧠 Backend-focused MERN Stack developer (now with TypeScript 💪)
