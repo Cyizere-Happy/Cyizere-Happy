@@ -38,7 +38,7 @@ I'm a curious mind who explores from bare metal to browser. Whether it's **flash
 ## 🌐 Projects & Portfolio
 
 🎨 Check out my works:  
-[🔗 CN ePortfolio](https://www.thecn.com/CH2218)
+[🔗 ePortfolio](https://happy4ward.vercel.app)
 
 ---
 
@@ -54,7 +54,7 @@ I'm a curious mind who explores from bare metal to browser. Whether it's **flash
 ## 💬 Let's Connect
 
 📫 Email: happycyizere69@gmail.com  
-🌍 Portfolio: [https://www.thecn.com/CH2218](https://www.thecn.com/CH2218)
+🌍 Portfolio: [https://happy4ward.vercel.app](https://happy4ward.vercel.app)
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Cyizere Happy"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Cyizere Happy" /></a></p><br><br>
