@@ -61,15 +61,6 @@ I’m a backend-focused developer with a strong interest in **security-by-design
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cyizere-Happy&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyizere-Happy&layout=compact&theme=tokyonight" width="48%" />
-</p>
-
----
-
 ## 📫 Contact
 
 * 📧 Email: **[happycyizere69@gmail.com](mailto:happycyizere69@gmail.com)**
