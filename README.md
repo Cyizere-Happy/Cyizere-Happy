@@ -10,22 +10,32 @@ I’m a backend-focused developer with a strong interest in **security-by-design
 
 * 🔐 **Cybersecurity** – Secure backend architectures, authentication, and best practices
 * ⚙️ **Backend Development** – APIs, databases, and scalable server-side systems
+* 🔄 **Realtime Systems** – WebSockets & event-driven communication
 * 🎨 **Creative Development** – Interactive **Three.js** projects and 3D experiences
+* 🖥️ **Frontend Development** – Modern UI integration with backend systems
 
 ---
 
 ## 🛠️ Skills & Tools
 
+### Swift & Realtime Development
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" width="40" />
+  <img src="https://avatars.githubusercontent.com/u/17364220?s=200&v=4" width="40" />
+</p>
+
 ### Backend & Frameworks
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="40" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" />
+  <img src="https://skillicons.dev/icons?i=spring" height="40" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="40" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" />
+  <img src="https://skillicons.dev/icons?i=php" height="40" />
+  <img src="https://skillicons.dev/icons?i=laravel" height="40" />
 </p>
 
 ### Databases
@@ -39,9 +49,9 @@ I’m a backend-focused developer with a strong interest in **security-by-design
 ### Creative & 3D
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" width="40" />
-  <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" width="40" />
-  <img src="https://avatars.githubusercontent.com/u/103196787?s=200&v=4" width="40" />
+  <img src="https://skillicons.dev/icons?i=threejs" height="40" />
+  <img src="https://skillicons.dev/icons?i=blender" height="40" />
+  <img src="https://img.shields.io/badge/Spline-000000?style=for-the-badge&logo=Spline&logoColor=white" height="40" />
 </p>
 
 ### Tools & Environment
