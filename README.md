@@ -67,7 +67,8 @@ I’m a backend-focused developer with a strong interest in **security-by-design
 ## 🌐 Projects & Portfolio
 
 🎨 View my work here:
-👉 **[https://happy4ward.vercel.app](https://happy4ward.vercel.app)**
+👉 **[Portfolio](https://happy4ward.vercel.app)**  
+📝 **[Blog](https://cyizere-blog.onrender.com/)**
 
 ---
 
@@ -75,6 +76,7 @@ I’m a backend-focused developer with a strong interest in **security-by-design
 
 * 📧 Email: **[happycyizere69@gmail.com](mailto:happycyizere69@gmail.com)**
 * 🌍 Portfolio: **[https://happy4ward.vercel.app](https://happy4ward.vercel.app)**
+* 📝 Blog: **[https://cyizere-blog.onrender.com/](https://cyizere-blog.onrender.com/)**
 
 ---
 
